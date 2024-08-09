@@ -10,4 +10,3 @@ sudo dpkg-reconfigure sddm
 sudo cp -r ~/.config/sddm/game-rpg/ /usr/share/sddm/themes
 cp ~/.config/sddm/sddm.conf /etc/
 echo "SDDM INSTALADO Y CONFIGURADO CORRECTAMENTE"
-udo apt-get install build-essential libgl1-mesa-dev
