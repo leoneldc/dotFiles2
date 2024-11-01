@@ -1,3 +1,5 @@
+#! /bin/bash
+
 sudo apt install sddm -y
 sudo apt-get install build-essential libgl1-mesa-dev -y
 sudo apt-get install qml-module-qtquick-controls qml-module-qtquick-controls2 -y

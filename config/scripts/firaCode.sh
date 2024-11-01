@@ -1,3 +1,5 @@
+#! /bin/bash
+
 sudo apt intall wget -y
 wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/FiraCode.zip -O FiraCode.zip
 unzip FiraCode.zip -d FiraCode
