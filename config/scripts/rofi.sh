@@ -1,6 +1,6 @@
 #! /bin/sh
 
-sudo apt install rofi -y
+sudo apt install rofi fonts-noto-color-emoji -y
 
 mkdir ~/.config/rofi
 
