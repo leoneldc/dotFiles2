@@ -1,6 +1,6 @@
 #! /bin/sh
 
-sudo apt install rofi
+sudo apt install rofi -y
 
 mkdir ~/.config/rofi
 
