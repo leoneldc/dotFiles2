@@ -1,3 +1,5 @@
+#! /bin/bash
+
 sudo apt-get install bspwm -y
 
 mkdir ~/.config/bspwm ~/.config/sxhkd
