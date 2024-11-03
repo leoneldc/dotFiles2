@@ -6,8 +6,8 @@ mkdir ~/.config/bspwm ~/.config/sxhkd
 
 chmod +x ../bspwm/bspwmrc
 
-cp ../bspwm/bspwmrc ~/.config/bspwm/
-cp ../sxhkd/sxhkdrc ~/.config/sxhkd/
+mv ../bspwm/bspwmrc ~/.config/bspwm/
+mv ../sxhkd/sxhkdrc ~/.config/sxhkd/
 
 
 echo "BSPWM y SXHKD INSTALADO Y CONFIGURADO CORRECTAMENTE"
