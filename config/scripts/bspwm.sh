@@ -1,6 +1,6 @@
 #! /bin/bash
 
-sudo apt-get install bspwm -y
+sudo apt-get install bspwm sxhkd -y
 
 mkdir ~/.config/bspwm ~/.config/sxhkd
 
