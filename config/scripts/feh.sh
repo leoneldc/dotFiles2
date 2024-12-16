@@ -1,6 +1,6 @@
 #! /bin/bash
 
-sudo apt-get feh -y
+sudo apt install feh -y
 
 mv ../../srcSetup/ ~/
 
