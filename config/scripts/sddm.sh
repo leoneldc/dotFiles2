@@ -11,6 +11,6 @@ sudo dpkg-reconfigure sddm
 
 sudo cp -r ../sddm/game-rpg/ /usr/share/sddm/themes
 
-sudo cp ../sddm/sddm.conf /etc/
+sudo cp ./../sddm/sddm.conf /etc/
 
 echo "SDDM INSTALADO Y CONFIGURADO CORRECTAMENTE"

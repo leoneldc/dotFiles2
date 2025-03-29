@@ -2,9 +2,9 @@
 
 sudo apt install picom -y
 
-cp ../picom/ ~/.config/
+cp ./../picom/ ~/.config/
 
 echo "PICOM INSTALADO"
-echo "AGREGAR AL ARCHIVO .conf/bspwm/bspwmrc LO SIGUIENTE:"
+echo "AGREGAR AL ARCHIVO ~/.config/bspwm/bspwmrc LO SIGUIENTE:"
 echo "pkill picom"
 echo 'picom -f --daemon --config "${HOME}/.config/picom/picom.conf" &'

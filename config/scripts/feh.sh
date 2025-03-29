@@ -2,7 +2,7 @@
 
 sudo apt install feh -y
 
-mv ../../srcSetup/ ~/
+mv ./../../srcSetup/ ~/
 
 feh --bg-scale ~/srcSetup/bg/lofi-1.jpeg
 
